@@ -1,0 +1,9 @@
+G:\Centennial\SEM 2\COMP 212\Examples\300872344_ASS_2\300872344_ASS_2\bin\Debug\300872344_ASS_2.exe.config
+G:\Centennial\SEM 2\COMP 212\Examples\300872344_ASS_2\300872344_ASS_2\bin\Debug\300872344_ASS_2.exe
+G:\Centennial\SEM 2\COMP 212\Examples\300872344_ASS_2\300872344_ASS_2\bin\Debug\300872344_ASS_2.pdb
+G:\Centennial\SEM 2\COMP 212\Examples\300872344_ASS_2\300872344_ASS_2\obj\Debug\300872344_ASS_2.csprojResolveAssemblyReference.cache
+G:\Centennial\SEM 2\COMP 212\Examples\300872344_ASS_2\300872344_ASS_2\obj\Debug\_300872344_ASS_2.Calculate_Bill.resources
+G:\Centennial\SEM 2\COMP 212\Examples\300872344_ASS_2\300872344_ASS_2\obj\Debug\_300872344_ASS_2.Properties.Resources.resources
+G:\Centennial\SEM 2\COMP 212\Examples\300872344_ASS_2\300872344_ASS_2\obj\Debug\300872344_ASS_2.csproj.GenerateResource.Cache
+G:\Centennial\SEM 2\COMP 212\Examples\300872344_ASS_2\300872344_ASS_2\obj\Debug\300872344_ASS_2.exe
+G:\Centennial\SEM 2\COMP 212\Examples\300872344_ASS_2\300872344_ASS_2\obj\Debug\300872344_ASS_2.pdb

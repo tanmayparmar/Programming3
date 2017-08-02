@@ -1,0 +1,9 @@
+G:\Centennial\SEM 2\COMP 212\Examples\300872344_ASS_2\Question2\bin\Debug\Question2.exe.config
+G:\Centennial\SEM 2\COMP 212\Examples\300872344_ASS_2\Question2\obj\Debug\Question2.csprojResolveAssemblyReference.cache
+G:\Centennial\SEM 2\COMP 212\Examples\300872344_ASS_2\Question2\obj\Debug\Exercise_2.LoggedInForm.resources
+G:\Centennial\SEM 2\COMP 212\Examples\300872344_ASS_2\Question2\obj\Debug\Question2.LoginUserControl.resources
+G:\Centennial\SEM 2\COMP 212\Examples\300872344_ASS_2\Question2\obj\Debug\Question2.csproj.GenerateResource.Cache
+G:\Centennial\SEM 2\COMP 212\Examples\300872344_ASS_2\Question2\bin\Debug\Question2.exe
+G:\Centennial\SEM 2\COMP 212\Examples\300872344_ASS_2\Question2\bin\Debug\Question2.pdb
+G:\Centennial\SEM 2\COMP 212\Examples\300872344_ASS_2\Question2\obj\Debug\Question2.exe
+G:\Centennial\SEM 2\COMP 212\Examples\300872344_ASS_2\Question2\obj\Debug\Question2.pdb
