@@ -1,0 +1,10 @@
+G:\Centennial\SEM 2\COMP 212\Examples\COMP212_Assignment1\COMP212_Assignment1\bin\Debug\COMP212_Assignment1.exe.config
+G:\Centennial\SEM 2\COMP 212\Examples\COMP212_Assignment1\COMP212_Assignment1\obj\Debug\COMP212_Assignment1.csprojResolveAssemblyReference.cache
+G:\Centennial\SEM 2\COMP 212\Examples\COMP212_Assignment1\COMP212_Assignment1\obj\Debug\COMP212_Assignment1.ManageNotification.resources
+G:\Centennial\SEM 2\COMP 212\Examples\COMP212_Assignment1\COMP212_Assignment1\obj\Debug\COMP212_Assignment1.ManagePublishForm.resources
+G:\Centennial\SEM 2\COMP 212\Examples\COMP212_Assignment1\COMP212_Assignment1\obj\Debug\COMP212_Assignment1.ManageSub.resources
+G:\Centennial\SEM 2\COMP 212\Examples\COMP212_Assignment1\COMP212_Assignment1\obj\Debug\COMP212_Assignment1.csproj.GenerateResource.Cache
+G:\Centennial\SEM 2\COMP 212\Examples\COMP212_Assignment1\COMP212_Assignment1\bin\Debug\COMP212_Assignment1.exe
+G:\Centennial\SEM 2\COMP 212\Examples\COMP212_Assignment1\COMP212_Assignment1\bin\Debug\COMP212_Assignment1.pdb
+G:\Centennial\SEM 2\COMP 212\Examples\COMP212_Assignment1\COMP212_Assignment1\obj\Debug\COMP212_Assignment1.exe
+G:\Centennial\SEM 2\COMP 212\Examples\COMP212_Assignment1\COMP212_Assignment1\obj\Debug\COMP212_Assignment1.pdb
